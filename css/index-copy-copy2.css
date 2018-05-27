@@ -1,0 +1,193 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.063em/1.38 'Trebuchet MS';
+  color: rgb(255, 255, 255);
+}
+
+.container .container {
+  float: left;
+}
+
+.element {
+  position: relative;
+  float: left;
+  border: 2px dashed rgb(255, 179, 179);
+  background-size: cover;
+  background-color: rgb(222, 222, 222);
+}
+
+._button {
+  display: block;
+  float: left;
+  height: 25px;
+  margin-top: 3px;
+  border-radius: 3px;
+  background-color: rgb(255, 1, 11);
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:active,
+._button:hover {
+  background-color: rgb(255, 59, 67);
+}
+
+.container ._container {
+  clear: both;
+  background-color: rgb(175, 9, 16);
+}
+
+.container-1 {
+  width: 900px;
+  height: 1351px;
+  margin: 8px auto 0;
+}
+
+.container-2 {
+  width: 100%;
+  height: 186px;
+  margin-top: -20px;
+  background-image: url('../images/marvelstudioslogo%20(1).jpg');
+  background-repeat: repeat-x;
+  background-size: 701px 311px;
+  background-position: center center;
+}
+
+.container-3 {
+  width: 95.25%;
+  height: 40px;
+  margin: 10px 0 0 3.25%;
+  border: 4px double rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+.container-4 {
+  width: 100%;
+  height: 161px;
+  margin-top: 29px;
+}
+
+.element-1 {
+  clear: both;
+  z-index: 10;
+  width: 352px;
+  height: 209px;
+  margin: 28px 0 0 3.25%;
+  background-image: url('../images/rabstol_net_film_studio_09.jpg');
+  background-position: center center;
+}
+
+.element-2 {
+  z-index: 11;
+  width: 39.7777777777%;
+  height: 209px;
+  margin: 28px 0 0 7.41667%;
+  background-image: url('../images/8457.jpg');
+  background-position: left top;
+}
+
+.element-3 {
+  clear: both;
+  z-index: 12;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 15px 0 0 3.25%;
+  background-image: url('../images/marvel-wallpaper-photo-For-Desktop-Wallpaper.jpg');
+  background-position: left top;
+}
+
+.element-4 {
+  z-index: 13;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 15px 0 0 7.41667%;
+  background-image: url('../images/civil-war-marvel-1920x1080-wallpaper.jpg');
+  background-position: left top;
+}
+
+.element-5 {
+  clear: both;
+  z-index: 14;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 24px 0 0 3.25%;
+  background-image: url('../images/wpapers_ru_Marvel.jpg');
+  background-position: left top;
+}
+
+.element-6 {
+  z-index: 15;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 24px 0 0 8.0816%;
+  background-image: url('../images/thumb-1920-322791.jpg');
+  background-position: left top;
+}
+
+.element-7 {
+  clear: both;
+  z-index: 16;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 19px 0 0 3.25%;
+  background-image: url('../images/15-_20160212_1668420034.jpg');
+  background-position: center center;
+}
+
+.element-8 {
+  z-index: 17;
+  width: 39.1111111111%;
+  height: 192px;
+  margin: 19px 0 0 8.0816%;
+  background-image: url('../images/spider-man-marvel-eyes-red-hd-720P-wallpaper.jpg');
+  background-position: left top;
+}
+
+.text-1 {
+  width: 73.3333333333%;
+  margin: 231px auto 0;
+  background-color: rgba(255, 179, 179, 0.2);
+  font-size: 1.471em;
+  text-align: center;
+  color: rgb(175, 9, 16);
+}
+
+.text-2 {
+  float: left;
+  width: 18.875%;
+  min-height: 1px;
+  margin: 32px 0 0 2.75%;
+  font-size: 1.529em;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  float: left;
+  clear: both;
+  margin-left: 6.125%;
+  font-size: 1.118em;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  width: 17.374005305%;
+  margin-left: 2.76899%;
+}
+
+.container ._button-2 {
+  width: 30.6366047745%;
+  margin-left: 2.76899%;
+}
+
+.container ._button-3 {
+  width: 21.8832891246%;
+  margin-left: 2.11768%;
+}
+
+.container ._button-4 {
+  width: 17.1087533156%;
+  margin-left: 2.91802%;
+  border: 3px solid rgb(255, 179, 179);
+}

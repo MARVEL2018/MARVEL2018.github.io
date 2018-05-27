@@ -1,0 +1,201 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.875em/1.38 'Trebuchet MS';
+  color: rgb(175, 9, 16);
+}
+
+.container .container {
+  float: left;
+  background-color: rgb(175, 9, 16);
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  background-repeat: no-repeat;
+}
+
+.text {
+  float: left;
+}
+
+.text-1 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  height: 25px;
+  margin-top: 3px;
+  border-radius: 3px;
+  background-color: rgb(255, 1, 11);
+  font-style: italic;
+  font-size: 0.567em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button:hover {
+  background-color: rgb(255, 59, 67);
+}
+
+._button:active {
+  background-color: rgb(255, 59, 67);
+}
+
+.container-1 {
+  width: 900px;
+  height: 1351px;
+  margin: 18px auto 0;
+}
+
+.container-2 {
+  width: 100%;
+  height: 186px;
+  margin-top: -20px;
+  background-image: url('../images/marvelstudioslogo%20(1).jpg');
+  background-repeat: no-repeat;
+  background-size: 701px 311px;
+  background-position: center center;
+}
+
+.container-3 {
+  position: relative;
+  clear: both;
+  z-index: 6;
+  width: 95.25%;
+  height: 40px;
+  margin: -484px 0 0 3.25%;
+  border: 4px double rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+.container-4 {
+  width: 100%;
+  height: 161px;
+  margin-top: 17px;
+}
+
+.element-1 {
+  z-index: 1;
+  width: 344px;
+  height: 467px;
+  margin: 27px 0 0 -0.88889%;
+  background-image: url('../images/doctor-strange-286x400.png');
+  background-size: contain;
+  background-position: left top;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-2 {
+  z-index: 12;
+  width: 256px;
+  height: 403px;
+  margin: -931px 0 0 78.75%;
+  background-image: url('../images/Hulk_Portrait_Art.png');
+  background-size: 263px auto;
+  background-position: center center;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-3 {
+  z-index: 11;
+  width: 298px;
+  height: 279px;
+  margin: -376px 0 0 -2.375%;
+  background-image: url('../images/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(1).jpg');
+  background-size: 96% auto;
+  background-position: left top;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-4 {
+  z-index: 10;
+  width: 241px;
+  height: 457px;
+  margin: -462px 0 0 76.2222199999%;
+  background-image: url('../images/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg');
+  background-size: 224px 255px;
+  background-position: 11% 27%;
+}
+
+.text-1 {
+  position: relative;
+  z-index: 13;
+  width: 43.8888888888%;
+  height: 911px;
+  min-height: 432px;
+  margin: -435px 0 0 30.77431%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(175, 9, 16);
+}
+
+.text-2 {
+  width: 18.875%;
+  min-height: 1px;
+  margin: 32px 0 0 2.75%;
+  font-size: 0.867em;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  clear: both;
+  margin-left: 6.125%;
+  font-size: 0.633em;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-1 {
+  width: 17.374005305%;
+  margin-left: 2.76899%;
+  border: 2px solid rgb(255, 179, 179);
+}
+
+.container ._button-1:active {
+  border: 1px solid rgb(255, 154, 158);
+}
+
+.container ._button-2 {
+  width: 30.6366047745%;
+  margin-left: 2.76899%;
+}
+
+.container ._button-3 {
+  width: 21.8832891246%;
+  margin-left: 2.11768%;
+}
+
+.container ._button-4 {
+  width: 17.1087533156%;
+  margin-left: 2.91802%;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(255, 1, 11);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
